@@ -1,0 +1,17 @@
+streamlit
+tiktoken
+loguru
+
+langchain
+openai
+PyPDF2
+docx2txt
+unstructured
+
+faiss-cpu
+transformers
+
+
+pandas
+
+
