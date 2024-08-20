@@ -5,9 +5,10 @@ loguru
 langchain
 openai
 PyPDF2
+pypdf
 docx2txt
 unstructured
-
+sentence-transformers
 faiss-cpu
 transformers
 
